@@ -19,9 +19,9 @@
     },
     {
       "name": "Keep Going",
-      "cover": "https://res.cloudinary.com/dfhaya9g7/video/upload/v1689514885/olympe/keep_going_f261df.mp3",
+      "cover": "https://chillhop.com/wp-content/uploads/2020/07/ff35dede32321a8aa0953809812941bcf8a6bd35-1024x1024.jpg",
       "artist": "Swørn",
-      "audio": "https://mp3.chillhop.com/serve.php/?mp3=9222",
+      "audio": "https://res.cloudinary.com/dfhaya9g7/video/upload/v1689514885/olympe/keep_going_f261df.mp3",
       "color": ["#CD607D", "#c94043"],
       "id": 3,
       "active": false
